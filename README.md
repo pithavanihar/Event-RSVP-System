@@ -74,10 +74,6 @@ npm run dev
   - **Create Events** with a name and a future date.
   - **RSVP** to an event with live attendee count updates.
   - **Withdraw RSVP** if no longer attending.
-
-### Admin Actions (if applicable)
-- Admins can manage all events and users from the dashboard.
-
 ---
 
 ## Testing
@@ -116,6 +112,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-For questions or feedback, please reach out to [Your Name] at [Your Email].
+
 
